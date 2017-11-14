@@ -12,14 +12,14 @@
   },
   "keywords": [
     "ember-addon",
-    "gzip"
+    "brotli"
   ],
   "author": "Felix Buenemann <felix.buenemann@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gdub22/ember-cli-gzip/issues"
+    "url": "https://github.com/felixbuenemann/ember-cli-brotli/issues"
   },
-  "homepage": "https://github.com/gdub22/ember-cli-gzip",
+  "homepage": "https://github.com/felixbuenemann/ember-cli-brotli",
   "dependencies": {
     "broccoli-brotli": "^1.0.1"
   },
