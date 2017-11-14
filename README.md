@@ -2,6 +2,8 @@
 
 An ember-cli add-on to compress assets using brotli.
 
+This is a fork of [ember-cli-gzip](https://github.com/gpoitch/ember-cli-gzip).
+
 **Note:** If you use the ember-deploy addon, just use their brotli plugin: https://www.npmjs.com/package/ember-cli-deploy-brotli
 
 **Note:** This addon is only useful for production builds and requires a webserver that can serve precompressed assets, like NGINX with the [ngx\_brotli](https://github.com/google/ngx_brotli) module and `brotli_static` enabled for asset paths.
