@@ -33,6 +33,7 @@ var app = new EmberApp({
 - **extensions** : Array of file extentions that should be compressed. (Default `['js', 'css']`)
 - **keepUncompressed**: Whether the uncompressed versions of the files should be kept. (Default `false`)
 - **appendSuffix**: Whether to append the .br suffix. (Default `true`)
+- **XXX**: Where `XXX` comes from [BrotliOptions](https://nodejs.org/dist/latest-v15.x/docs/api/zlib.html#zlib_class_brotlioptions).
 
 ## References
 - [broccoli-brotli](https://github.com/myfreeweb/broccoli-brotli)
