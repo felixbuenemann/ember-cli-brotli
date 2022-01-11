@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/felixbuenemann/ember-cli-brotli",
   "dependencies": {
-    "broccoli-brotli": "^2.0.0"
+    "broccoli-brotli": "^2.0.1"
   },
   "ember-addon": {
     "after": [
